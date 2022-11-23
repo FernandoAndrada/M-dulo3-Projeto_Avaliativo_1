@@ -1,4 +1,4 @@
-body{
+.body{
 
     background-color: #f7e8e0;
     padding: 0rem;
@@ -59,7 +59,7 @@ input{
 	text-decoration:none;
 	text-shadow:0px 1px 0px #263666;
     
-    width: 10rem;
+    width: auto;
     height: 2rem;
     top: 18rem;
     left: 24rem;
@@ -96,15 +96,18 @@ input{
 .totComp{
 
     position:absolute;
-    left: 55rem;
+    top:35%;
+    left: 70%;
+    width: auto;
 }
 
 .valComp{
 
     position:absolute;
-    top:20rem;
+    top:40%;
     font-size: 3rem;
-    left: 55rem;
+    left: 70%;
+    width: auto;
 }
 
 
